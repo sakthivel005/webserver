@@ -67,10 +67,8 @@ client side output:
 ![web lab001](https://user-images.githubusercontent.com/120550359/228840650-676ae7b6-805e-45b0-959d-7f04af7883aa.png)
 
 
-
-
 server side output:
-![Screenshot_20230323_092800](https://user-images.githubusercontent.com/120550359/228840699-f6c7bf4c-a9e7-498a-b352-5e7db60005df.png)
+![Screenshot_20230330_062458](https://user-images.githubusercontent.com/120550359/228842480-a4587b6d-3672-40d4-8e6f-bac1fd0638a5.png)
 
 
 
